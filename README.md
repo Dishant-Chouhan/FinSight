@@ -57,8 +57,7 @@ GEMINI_API_KEY=
 
 
 
-
-**## 📜 Google Apps Script **
+## 📜 Google Apps Script 
 function doPost(e) {
   // Check if postData exists and has contents
   if (!e || !e.postData || !e.postData.contents) {
